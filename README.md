@@ -1,5 +1,5 @@
 # QuickRes
-QuickRes
+
 QuickRes is a fast, lightweight resolution manager built for competitive gamers.
 Designed especially for players who use stretched or custom resolutions, QuickRes eliminates the hassle of constantly digging through Windows or GPU settings. Save the resolutions you actually use and switch between them in seconds from one clean interface.
 Whether you're jumping into Valorant, switching back to your native desktop resolution, or testing different competitive setups, QuickRes keeps everything you need in one place.
